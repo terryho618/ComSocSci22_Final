@@ -10,3 +10,9 @@ hugo.darwin
 node_modules
 dist
 tmp
+
+*.pkl
+tekore.conf
+stopwords-hi.txt
+stopwords-ko.txt
+G_positions.json
