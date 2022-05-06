@@ -1,13 +1,13 @@
 baseURL = "https://peterampazzo.github.io/project-website-template/"
-title = "Project Title"
+title = "The Spotify Artist Network"
 description = "This is a project description"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Anders Nørskov", "Terry Ho"]
     notebook = "/explainer-notebook.html"
-    data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    data = "https://onedrive.live.com/?authkey=%21AOLljeio1XGAHII&id=1E26245DC2140BDB%21516411&cid=1E26245DC2140BDB"
+    github = "https://github.com/terryho618/ComSocSci22_Final"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
