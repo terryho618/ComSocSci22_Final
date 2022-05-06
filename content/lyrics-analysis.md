@@ -70,4 +70,4 @@ The size of the nodes is based on the mean emotion of the artist and the color i
 **Plot of most emotional, positive and negative artists**
 ![](/plots/artist_emotion_sentiment.svg)
 
-The top right corner represents the most emotional and most positive sentimental artist while the bottom left represents the least emotional and least positive sentimental artist.
+The top right corner represents the most emotional and most positive sentimental artist while the bottom left represents the least emotional and least positive sentimental artist. The reason that Lolita Flores is the most emotional and positive artist is because her top song is in spanish and almost only contains the word "amor" which is one of the highest ranking sentiments in the dataset. The reason why Mylo is the most negative sentiment artist is because his top song simply contains the mother-f word and the f-word repeated in all lines but listening to the song it is actually pretty upbeat.
