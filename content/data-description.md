@@ -11,6 +11,7 @@ The dataset involves a network of artists on Spotify acquired from the Tekore AP
 **Everynoise.com**  
 We also obtained the genre(s) related to each artist by scraping data from everynoise.com. For example, a return output could be "pop" or "pop, rock". Most genres have very few artists assigned to them.
 - 4,425 unique genres
+![](/plots/genre_distribution.svg)
 
 **LyricsGenius**  
 We obtained the lyrics to the most popular song of each artist according to Spotify with the LyricsGenius API. We were limited to 1 song per artist due to time constraints, and rate limit and sizing of data. Some of the songs did not contain lyrics (instrumental) or did not exist on Genius. We did not do analysis on those songs. 
@@ -18,7 +19,7 @@ We obtained the lyrics to the most popular song of each artist according to Spot
 We were also not able to analyze every single song due to the fact that some songs are not written in a language within the LabMT library. We were only able to obtain tokens of lyrics in the language of English, French, German, Hindi, Indonesian, Korean, Portugese, Russian, or Spanish.
 
 Each song was on average 1600 characters:
-![](/figure/lyric_length.png)
+![](/plots/lyric_lengths.svg)
 
 
 **Important Properties of The Dataset**
