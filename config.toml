@@ -1,6 +1,6 @@
-baseURL = "https://peterampazzo.github.io/project-website-template/"
+baseURL = "https://terryho618.github.io/ComSocSci22_Final"
 title = "The Spotify Artist Network"
-description = "This is a project description"
+description = "Analyzing the lyrical mood of artists on Spotify"
 relativeURLs = true
 theme = "theme" 
 [params]
@@ -21,7 +21,7 @@ theme = "theme"
         label = "Louvain Network"
         link = "/louvain-network"
     [[params.nav]]
-        label = "Genre Network"
+        label = "Spotify Network"
         link = "/genre-network"
     [[params.nav]]
         label = "Sentiment Network"
