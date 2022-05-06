@@ -12,9 +12,20 @@ theme = "theme"
         label = "Data"
         link = "/data-description"
     [[params.nav]]
-        label = "Network"
+        label = "Network Analysis"
         link = "/network-analysis"
     [[params.nav]]
-        label = "Text"
-        link = "/text-analysis"
-
+        label = "Lyrics"
+        link = "/lyrics-analysis"
+    [[params.nav]]
+        label = "Louvain Network"
+        link = "/louvain-network"
+    [[params.nav]]
+        label = "Genre Network"
+        link = "/genre-network"
+    [[params.nav]]
+        label = "Sentiment Network"
+        link = "/sentiment-network"
+    [[params.nav]]
+        label = "Word Clouds"
+        link = "/word-clouds"

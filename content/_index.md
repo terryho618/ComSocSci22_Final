@@ -5,7 +5,7 @@ next: data-description
 ---
 ![](/figure/logo.png)
 
-This website will describe the dataset and provide analysis for the text and network in the [data](data-description), [network](network-analysis), and [text](text-analysis) pages. 
+This website will describe the dataset and provide analysis for the lyrics and network of Spotify Artists.  
 
 Below are the links for the following:
 ## [Explainer Notebook](explainer-notebook.html)
