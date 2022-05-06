@@ -48,7 +48,26 @@ The mean sentiment of each song was also calculated and then adjusted to have a 
 
 Genres were filtered out to only include genres with more than 250 songs.
 
-<!-- update this later -->
-![](/plots/sentiment_progression.svg)
+Genres with the most positive sentiment:
+![](/plots/positive_sentiment_progression.svg)
+Genres with the most emotional lyrics:
+![](/plots/emotion_progression.svg)
+Genres with the most negative sentiment:
+![](/plots/negative_sentiment_progression.svg)
+Sentiment of the biggest genres:
+![](/plots/largest_genre_progression.svg)
+Left to right is most positive, most emotional and most negative Louvain community:
+![](/plots/most_emotional_louvain_progression.svg)
+Sentiment of the biggest Louvain communities:
+![](/plots/largest_louvain_progression.svg)
 
-The first row represents the most positive sentiment, the second row is the most emotional, and the third row is the most negative sentiment. The red line is the mean bucketed sentiment or emotion over the given genre.
+The red line in all histograms denotes the mean bucketed sentiment or emotion over the given genre/community.
+
+Many of the plots have high sentiment or emotion in the first column of the histogram. Some other observances are explained in the notebook.
+
+The size of the nodes is based on the mean emotion of the artist and the color is based on the mean sentiment.
+
+**Plot of most emotional, positive and negative artists**
+![](/plots/artist_emotion_sentiment.svg)
+
+The top right corner represents the most emotional and most positive sentimental artist while the bottom left represents the least emotional and least positive sentimental artist.

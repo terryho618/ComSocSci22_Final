@@ -18,11 +18,11 @@ theme = "theme"
         label = "Lyrics"
         link = "/lyrics-analysis"
     [[params.nav]]
-        label = "Louvain Network"
-        link = "/louvain-network"
-    [[params.nav]]
         label = "Spotify Network"
         link = "/genre-network"
+    [[params.nav]]
+        label = "Louvain Network"
+        link = "/louvain-network"
     [[params.nav]]
         label = "Sentiment Network"
         link = "/sentiment-network"
