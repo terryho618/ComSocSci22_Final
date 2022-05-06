@@ -5,7 +5,7 @@ relativeURLs = true
 theme = "theme" 
 [params]
     authors = ["Anders Nørskov", "Terry Ho"]
-    notebook = "/explainer-notebook.html"
+    notebook = "https://nbviewer.org/github/terryho618/ComSocSci22_Final/blob/main/notebooks/Explainer.ipynb"
     data = "https://onedrive.live.com/?authkey=%21AOLljeio1XGAHII&id=1E26245DC2140BDB%21516411&cid=1E26245DC2140BDB"
     github = "https://github.com/terryho618/ComSocSci22_Final"
     [[params.nav]]

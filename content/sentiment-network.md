@@ -10,6 +10,7 @@ Similarly, there is also a less dense (smaller nodes, less emotional) but negati
 The border-color of the labels also shows the sentiment of the artist.
 
 You might need to right-click and open in new tab to see the image clearer. The format allows for infinite zoom due to vector graphics.
+If the image does not load, just wait a bit longer. The image should appear just below this text.
 
 ![](/plots/sentiment_network.svg)
 ![](/plots/colorbar.svg)

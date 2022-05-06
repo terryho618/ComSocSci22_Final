@@ -8,6 +8,6 @@ next: data-description
 This website will describe the dataset and provide analysis for the lyrics and network of Spotify Artists.  
 
 Below are the links for the following:
-## [Explainer Notebook](explainer-notebook.html)
+## [Explainer Notebook](https://nbviewer.org/github/terryho618/ComSocSci22_Final/blob/main/notebooks/Explainer.ipynb)
 ## [Data](https://onedrive.live.com/?authkey=%21AOLljeio1XGAHII&id=1E26245DC2140BDB%21516411&cid=1E26245DC2140BDB)
 ## [GitHub](https://github.com/terryho618/ComSocSci22_Final)
